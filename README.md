@@ -6,6 +6,7 @@ The website can be previewed on Heroku through this link: https://powerful-escar
 Username: testUser
 Password: testUser123
 -->
+![Webpage screenshot](https://github.com/sunyw99/YelpCamp-Web-Application/blob/401cd7d900493569db3584a8ee12aaec35532e67/YelpCamp_homepage.JPG)
 
 ## Features
 * User Authentication
